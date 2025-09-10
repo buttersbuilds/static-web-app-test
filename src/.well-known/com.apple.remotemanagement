@@ -1,8 +1,9 @@
-{
-    "Servers": [
-    {
-        "Version": "<Version>",
-        "BaseURL": "<BaseURL>"
-    }
-    ]
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=https://tbphxappletest.z33.web.core.windows.net/.well-known/com.apple.remotemanagement">
+</head>
+<body>
+  <p>If you are not redirected automatically, <a href="https://tbphxappletest.z33.web.core.windows.net/.well-known/com.apple.remotemanagement">click here</a>.</p>
+</body>
+</html>
